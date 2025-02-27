@@ -4,7 +4,7 @@ Resource    ../Resources/keywords.robot
 
 
 # *** Test Cases ***
-# Test Case 1
+# Test Case 3
 #     Open Browser    https://www.google.com    edge
 #     Maximize Browser Window
 #     Click Button    id=W0wltc
